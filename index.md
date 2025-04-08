@@ -12,6 +12,6 @@ var myVar = "Hello, world!";
 
 ### Checklist
 
--[] Turn On Github Pages
--[] Outline my portfolio
--[] Introduce myself to the world
+- [ ] Turn On Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
